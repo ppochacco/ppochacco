@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ### Database
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo)
 ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=white)
 
 ### ML/DL
 ![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -39,7 +40,7 @@ Here are some ideas to get you started:
 ![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ### Data Science Tools
-![Google Colab](https://img.shields.io/badge/google%20colab-%23F9AB00.svg?&style=for-the-badge&logo=google-colab&logoColor=black)
+![Google Colab](https://img.shields.io/badge/google%20colab-%23F9AB00.svg?&style=for-the-badge&logo=google-colab&logoColor=white)
 
 ### Collaboration Tools
 ![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
