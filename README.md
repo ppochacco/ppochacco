@@ -19,6 +19,24 @@ Here are some ideas to get you started:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=black)
 
+## Database
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo[SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo
+
+## ML/DL
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logo
+
+## Backend
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo
+
+## Frontend
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter[UIKit](https://img.shields.io/badge/uikit-%232396F3.svg?&style=for-the-badge&logo[Xcode](https://img.shields.io/badge/xcode-%231575F9.svg?&style=for-the-badge&logo
+
+## IDE
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual%20studi[Google Colab](https://img.shields.io/badge/google%20colab-%23F9AB00.svg?&style=for-the-badge&logo=google%20colab&logoColor=black
+
+## Colaboration Tools
+![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo[Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=whiteields.io/badge/miro-%23050038.svg?&style=for-the-badge&logo ![Jira](https://img.shields.io/badge/jira-%230052CC.svg?&&style-for-the-badge&&log ![Slack](https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white.shields.io/badge/discord-%237289DA.svg?&&style-for-the-badge&&logo-discord&&logocolor
+
 ## Strong Skills 💪
 - **Python**: Extensive experience in data analysis and automation.
 - **Pandas & NumPy**: Skilled in data manipulation and numerical computations.
