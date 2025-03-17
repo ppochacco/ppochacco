@@ -1,5 +1,5 @@
 ## Hi there 👋
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=ppochacco's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5&height=200&section=header&text=ppochacco's%20GITHUB&fontSize=50&animation=twinkling&fontAlign=68&fontAlignY=36)
 <!--
 **ppochacco/ppochacco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
