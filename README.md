@@ -57,6 +57,8 @@ Here are some ideas to get you started:
 - **FastAPI**: Experience in building RESTful APIs for scalable backend systems.
 - **MySQL & SQLite**: Solid understanding of relational database design and querying.
 
+
+<!--
 ## Learning & Improving Skills 🌱
 - **TensorFlow & PyTorch**: Currently exploring deep learning frameworks for advanced AI projects.
 - **Flutter**: Learning to build cross-platform mobile applications.
@@ -64,8 +66,6 @@ Here are some ideas to get you started:
 - **Firebase**: Understanding cloud-based backend services and real-time database integration.
 - **R**: Expanding knowledge in statistical computing and visualization.
 
-
-<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
