@@ -8,45 +8,46 @@ Here are some ideas to get you started:
 
 # Building My Skill Set
 
-## Language
+### Language
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?&style=for-the-badge&logo=r&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white)
 
-## Data Analysis
+### Data Analysis
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=black)
 
-## Database
+### Database
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo)
 ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?&style=for-the-badge&logo)
 
-## ML/DL
-![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
-![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
+### ML/DL
+![TensorFlow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?&style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/pytorch-%23EE4C2C.svg?&style=for-the-badge&logo=pytorch&logoColor=white)
 
-## Backend
-![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=009688)
+### Backend
+![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
 
-## Mobile Development
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=02569B)
-![UIKit](https://img.shields.io/badge/uikit-%232396F3.svg?&style=for-the-badge&logo=uikit&logoColor=2396F3)
-![Xcode](https://img.shields.io/badge/xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=1575F9)
+### Mobile Development
+![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?&style=for-the-badge&logo=flutter&logoColor=white)
+![UIKit](https://img.shields.io/badge/uikit-%232396F3.svg?&style=for-the-badge&logo=uikit&logoColor=white)
+![Xcode](https://img.shields.io/badge/xcode-%231575F9.svg?&style=for-the-badge&logo=xcode&logoColor=white)
 
-## IDE
-![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Google Colab](https://img.shields.io/badge/google%20colab-%23F9AB00.svg?&style=for-the-badge&logo=google-colab&logoColor=F9AB00)
+### IDE
+![Visual Studio Code](https://img.shields.io/badge/visual%20studio%20code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## Collaboration Tools
-![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=000000)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Miro](https://img.shields.io/badge/miro-%23050038.svg?&style=for-the-badge&logo=miro&logoColor=050038)
-![Jira](https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=0052CC)
-![Slack](https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=4A154B)
-![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=7289DA)
+### Data Science Tools
+![Google Colab](https://img.shields.io/badge/google%20colab-%23F9AB00.svg?&style=for-the-badge&logo=google-colab&logoColor=black)
 
+### Collaboration Tools
+![Notion](https://img.shields.io/badge/notion-%23000000.svg?&style=for-the-badge&logo=notion&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white)
+![Miro](https://img.shields.io/badge/miro-%23050038.svg?&style=for-the-badge&logo=miro&logoColor=white)
+![Jira](https://img.shields.io/badge/jira-%230052CC.svg?&style=for-the-badge&logo=jira&logoColor=white)
+![Slack](https://img.shields.io/badge/slack-%234A154B.svg?&style=for-the-badge&logo=slack&logoColor=white)
+![Discord](https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)
 
 ## Strong Skills 💪
 - **Python**: Extensive experience in data analysis and automation.
