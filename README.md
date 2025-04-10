@@ -54,7 +54,6 @@ Here are some ideas to get you started:
 - **Python**: Extensive experience in data analysis and automation.
 - **Pandas & NumPy**: Skilled in data manipulation and numerical computations.
 - **Scikit-learn**: Proficient in building machine learning models for classification and regression tasks.
-- **FastAPI**: Experience in building RESTful APIs for scalable backend systems.
 - **MySQL & SQLite**: Solid understanding of relational database design and querying.
 
 
